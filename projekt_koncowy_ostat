@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "b36d42dc",
+   "id": "8be98868",
    "metadata": {},
    "outputs": [
     {
@@ -21,7 +21,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "e00e1265",
+   "id": "b6ce728f",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -31,7 +31,7 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "85ecc01d",
+   "id": "42d2ca12",
    "metadata": {},
    "outputs": [
     {
@@ -50,7 +50,7 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "2fb2b2ca",
+   "id": "37652958",
    "metadata": {},
    "outputs": [
     {
@@ -79,7 +79,7 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "d0a47bef",
+   "id": "da0d2c37",
    "metadata": {},
    "outputs": [
     {
@@ -133,7 +133,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "accf0444",
+   "id": "59d15a71",
    "metadata": {},
    "source": [
     "ARRIVAL_DELAY-Y-endogenous variable"
@@ -142,7 +142,7 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "cddb3a4e",
+   "id": "c478805e",
    "metadata": {},
    "outputs": [
     {
@@ -163,7 +163,7 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "e0803ab0",
+   "id": "e0dbfdd7",
    "metadata": {},
    "outputs": [
     {
@@ -212,7 +212,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "57d1b640",
+   "id": "71d991bf",
    "metadata": {},
    "source": [
     "to remove: \n",
@@ -236,7 +236,7 @@
   {
    "cell_type": "code",
    "execution_count": 31,
-   "id": "5a592603",
+   "id": "d65a567c",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -246,7 +246,7 @@
   {
    "cell_type": "code",
    "execution_count": 32,
-   "id": "3c5b64a3",
+   "id": "2b2203fe",
    "metadata": {},
    "outputs": [
     {
@@ -267,7 +267,7 @@
   {
    "cell_type": "code",
    "execution_count": 33,
-   "id": "e8ff7722",
+   "id": "387b63d1",
    "metadata": {},
    "outputs": [
     {
@@ -309,7 +309,7 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "06f6cc8c",
+   "id": "570d3fa5",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -319,7 +319,7 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "42dee410",
+   "id": "7b07dd7d",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -329,7 +329,7 @@
   {
    "cell_type": "code",
    "execution_count": 34,
-   "id": "f46e8e82",
+   "id": "34e9f875",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -339,7 +339,7 @@
   {
    "cell_type": "code",
    "execution_count": 35,
-   "id": "c491c28f",
+   "id": "99ee6044",
    "metadata": {},
    "outputs": [
     {
@@ -374,7 +374,7 @@
   {
    "cell_type": "code",
    "execution_count": 36,
-   "id": "b30cc7b1",
+   "id": "884bf7a2",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -386,7 +386,7 @@
   {
    "cell_type": "code",
    "execution_count": 37,
-   "id": "89aba061",
+   "id": "3dcc9071",
    "metadata": {},
    "outputs": [
     {
@@ -421,7 +421,7 @@
   {
    "cell_type": "code",
    "execution_count": 38,
-   "id": "8b7fd140",
+   "id": "82c9dd27",
    "metadata": {},
    "outputs": [
     {
@@ -442,7 +442,7 @@
   {
    "cell_type": "code",
    "execution_count": 39,
-   "id": "511a6f35",
+   "id": "48333fb5",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -452,7 +452,7 @@
   {
    "cell_type": "code",
    "execution_count": 40,
-   "id": "588c3265",
+   "id": "27e54df7",
    "metadata": {},
    "outputs": [
     {
@@ -473,7 +473,7 @@
   {
    "cell_type": "code",
    "execution_count": 41,
-   "id": "0390ecd6",
+   "id": "efbfe30d",
    "metadata": {},
    "outputs": [
     {
@@ -508,7 +508,7 @@
   {
    "cell_type": "code",
    "execution_count": 50,
-   "id": "0ada30ff",
+   "id": "bfc7380c",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -518,7 +518,7 @@
   {
    "cell_type": "code",
    "execution_count": 51,
-   "id": "6cc3bf56",
+   "id": "e47ce10a",
    "metadata": {},
    "outputs": [
     {
@@ -552,7 +552,7 @@
   {
    "cell_type": "code",
    "execution_count": 52,
-   "id": "99c38ba0",
+   "id": "dc9009f2",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -570,7 +570,7 @@
   {
    "cell_type": "code",
    "execution_count": 53,
-   "id": "9862b550",
+   "id": "0b85d517",
    "metadata": {},
    "outputs": [
     {
@@ -598,7 +598,7 @@
   {
    "cell_type": "code",
    "execution_count": 56,
-   "id": "47138271",
+   "id": "a552ab16",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -608,7 +608,7 @@
   {
    "cell_type": "code",
    "execution_count": 57,
-   "id": "1da6e848",
+   "id": "2640db78",
    "metadata": {},
    "outputs": [
     {
@@ -629,7 +629,7 @@
   {
    "cell_type": "code",
    "execution_count": 174,
-   "id": "d5eeca1c",
+   "id": "9dfcbaf3",
    "metadata": {},
    "outputs": [
     {
@@ -940,7 +940,7 @@
   {
    "cell_type": "code",
    "execution_count": 59,
-   "id": "86fd5c80",
+   "id": "7c3b1f40",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -957,7 +957,7 @@
   {
    "cell_type": "code",
    "execution_count": 60,
-   "id": "8443842e",
+   "id": "9b9ec1ba",
    "metadata": {},
    "outputs": [
     {
@@ -978,7 +978,7 @@
   {
    "cell_type": "code",
    "execution_count": 61,
-   "id": "1c90e407",
+   "id": "3c1ab1cf",
    "metadata": {},
    "outputs": [
     {
@@ -999,7 +999,7 @@
   {
    "cell_type": "code",
    "execution_count": 62,
-   "id": "f68d4690",
+   "id": "c0d28ad9",
    "metadata": {},
    "outputs": [
     {
@@ -1020,7 +1020,7 @@
   {
    "cell_type": "code",
    "execution_count": 63,
-   "id": "a484e462",
+   "id": "04180aef",
    "metadata": {},
    "outputs": [
     {
@@ -1041,7 +1041,7 @@
   {
    "cell_type": "code",
    "execution_count": 64,
-   "id": "baaab7d9",
+   "id": "dbddd43e",
    "metadata": {},
    "outputs": [
     {
@@ -1073,7 +1073,7 @@
   {
    "cell_type": "code",
    "execution_count": 68,
-   "id": "46fce570",
+   "id": "29f30530",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1103,7 +1103,7 @@
   {
    "cell_type": "code",
    "execution_count": 67,
-   "id": "df7be6fa",
+   "id": "6841b505",
    "metadata": {},
    "outputs": [
     {
@@ -1125,7 +1125,7 @@
   {
    "cell_type": "code",
    "execution_count": 69,
-   "id": "1d731f69",
+   "id": "6479a5c8",
    "metadata": {},
    "outputs": [
     {
@@ -1146,7 +1146,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7f57140f",
+   "id": "e405dbe9",
    "metadata": {},
    "source": [
     "the model of linear regression seems not to be overfitted"
@@ -1155,7 +1155,7 @@
   {
    "cell_type": "code",
    "execution_count": 175,
-   "id": "84fb962f",
+   "id": "354cdfd2",
    "metadata": {},
    "outputs": [
     {
@@ -1176,7 +1176,7 @@
   {
    "cell_type": "code",
    "execution_count": 176,
-   "id": "ee631b4d",
+   "id": "6c4d335f",
    "metadata": {},
    "outputs": [
     {
@@ -1197,7 +1197,7 @@
   {
    "cell_type": "code",
    "execution_count": 193,
-   "id": "05931755",
+   "id": "e7b4728b",
    "metadata": {},
    "outputs": [
     {
@@ -1218,7 +1218,7 @@
   {
    "cell_type": "code",
    "execution_count": 196,
-   "id": "dea3a413",
+   "id": "d7f08bdb",
    "metadata": {},
    "outputs": [
     {
@@ -1239,7 +1239,7 @@
   {
    "cell_type": "code",
    "execution_count": 189,
-   "id": "0a89149f",
+   "id": "fb970494",
    "metadata": {},
    "outputs": [
     {
@@ -1260,7 +1260,7 @@
   {
    "cell_type": "code",
    "execution_count": 184,
-   "id": "6dd4e1d8",
+   "id": "9b4c5cf7",
    "metadata": {},
    "outputs": [
     {
@@ -1281,7 +1281,7 @@
   {
    "cell_type": "code",
    "execution_count": 186,
-   "id": "2e257f33",
+   "id": "ebc39ba6",
    "metadata": {},
    "outputs": [
     {
@@ -1302,7 +1302,7 @@
   {
    "cell_type": "code",
    "execution_count": 72,
-   "id": "8ca357bf",
+   "id": "64593cbb",
    "metadata": {},
    "outputs": [
     {
@@ -1356,7 +1356,7 @@
   {
    "cell_type": "code",
    "execution_count": 105,
-   "id": "767000c6",
+   "id": "9f10c2e1",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1366,7 +1366,7 @@
   {
    "cell_type": "code",
    "execution_count": 131,
-   "id": "1cb492f3",
+   "id": "56d74ad6",
    "metadata": {},
    "outputs": [
     {
@@ -1402,7 +1402,7 @@
   {
    "cell_type": "code",
    "execution_count": 132,
-   "id": "51f71339",
+   "id": "477e9d4b",
    "metadata": {},
    "outputs": [
     {
@@ -1426,7 +1426,7 @@
   {
    "cell_type": "code",
    "execution_count": 129,
-   "id": "6cc35f2f",
+   "id": "5736904e",
    "metadata": {},
    "outputs": [
     {
@@ -1448,7 +1448,7 @@
   {
    "cell_type": "code",
    "execution_count": 142,
-   "id": "c45cebe0",
+   "id": "80a465f4",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1459,7 +1459,7 @@
   {
    "cell_type": "code",
    "execution_count": 145,
-   "id": "198c27c6",
+   "id": "e0951304",
    "metadata": {},
    "outputs": [
     {
@@ -1481,7 +1481,7 @@
   {
    "cell_type": "code",
    "execution_count": 146,
-   "id": "1df546a0",
+   "id": "deffc788",
    "metadata": {},
    "outputs": [
     {
@@ -1503,7 +1503,7 @@
   {
    "cell_type": "code",
    "execution_count": 157,
-   "id": "3c615135",
+   "id": "129be49a",
    "metadata": {},
    "outputs": [
     {
@@ -1524,7 +1524,7 @@
   {
    "cell_type": "code",
    "execution_count": 177,
-   "id": "a15e99e7",
+   "id": "5b913be4",
    "metadata": {},
    "outputs": [
     {
@@ -1545,7 +1545,7 @@
   {
    "cell_type": "code",
    "execution_count": 187,
-   "id": "ccb51daf",
+   "id": "3c7f3a29",
    "metadata": {},
    "outputs": [
     {
@@ -1566,7 +1566,7 @@
   {
    "cell_type": "code",
    "execution_count": 188,
-   "id": "83d638e4",
+   "id": "8c86d815",
    "metadata": {},
    "outputs": [
     {
@@ -1586,8 +1586,142 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 197,
+   "id": "886f1760",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "On branch master\n",
+      "\n",
+      "No commits yet\n",
+      "\n",
+      "Untracked files:\n",
+      "  (use \"git add <file>...\" to include in what will be committed)\n",
+      "\t.idea/\n",
+      "\t.ipynb_checkpoints/\n",
+      "\tKopia notatnika Knn-and-SVM.ipynb\n",
+      "\tSDA_ML_Regression_ANSWERS.ipynb\n",
+      "\tSDA_projekt_regresja.ipynb\n",
+      "\tUntitled.ipynb\n",
+      "\tUntitled1.ipynb\n",
+      "\tdata/\n",
+      "\tklasyfikacja.ipynb\n",
+      "\tprojekt_klasyfikacja.ipynb\n",
+      "\tprojekt_koncowy.ipynb\n",
+      "\tprojekt_koncowy_ostat\n",
+      "\n",
+      "nothing added to commit but untracked files present (use \"git add\" to track)\n"
+     ]
+    }
+   ],
+   "source": [
+    "!git status"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 198,
+   "id": "8b128fc3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "warning: LF will be replaced by CRLF in projekt_koncowy_ostat.\n",
+      "The file will have its original line endings in your working directory\n"
+     ]
+    }
+   ],
+   "source": [
+    "!git add projekt_koncowy_ostat\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 203,
+   "id": "fefd1269",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Author identity unknown\n",
+      "\n",
+      "*** Please tell me who you are.\n",
+      "\n",
+      "Run\n",
+      "\n",
+      "  git config --global user.email \"you@example.com\"\n",
+      "  git config --global user.name \"Your Name\"\n",
+      "\n",
+      "to set your account's default identity.\n",
+      "Omit --global to set the identity only in this repository.\n",
+      "\n",
+      "fatal: unable to auto-detect email address (got 'dorot@DESKTOP-GS06KCR.(none)')\n"
+     ]
+    }
+   ],
+   "source": [
+    "!git commit -m 'projekt_koncowy_SDA_regresja'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 215,
+   "id": "f58616ac",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "!git config --global user.email \"dorota.wojcicka2@wp.pl\"\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 206,
+   "id": "16a424c1",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[master (root-commit) 91d27c8] 'projekt_koncowy_SDA_regresja'\n",
+      " 1 file changed, 1617 insertions(+)\n",
+      " create mode 100644 projekt_koncowy_ostat\n"
+     ]
+    }
+   ],
+   "source": [
+    "!git commit -m 'projekt_koncowy_SDA_regresja'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 208,
+   "id": "ef4dd506",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "error: src refspec parable1648 does not match any\n",
+      "error: src refspec kurwamac1648 does not match any\n",
+      "error: failed to push some refs to 'origin'\n"
+     ]
+    }
+   ],
+   "source": []
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
-   "id": "ab2b71cc",
+   "id": "593370e5",
    "metadata": {},
    "outputs": [],
    "source": []
